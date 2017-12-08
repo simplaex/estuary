@@ -32,7 +32,7 @@
     <connection>scm:git:ssh://git@github.com:simplaex/estuary.git</connection>
     <developerConnection>scm:git:ssh://git@github.com:simplaex/estuary.git
     </developerConnection>
-    <url>https://github.com/simplaex/bedrock</url>
+    <url>https://github.com/simplaex/estuary</url>
     <tag>v1.0</tag>
   </scm>
 
